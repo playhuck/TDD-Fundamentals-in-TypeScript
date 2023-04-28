@@ -4,7 +4,7 @@
 
 일반적인 Production Code를 만드는 플로우는 다음과 같습니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cb9c03d4-3aef-402c-ac66-efe1cf6e5369/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/105256335/235052429-eabb420b-7cf7-45e0-846e-02ab3757928a.png)
 
 - **코드를 먼저 작성(Write Code) ⇒ Application(Run App)을 실행**
     
@@ -43,7 +43,7 @@ Write Code 부터 Test Fails까지.. 잘 짜여지지 못한 Code에 얼마나 �
 
 TDD는 이런 WorkFlow에서 우리를, 머리부터 꼬리까지 뒤집어 프로세스를 검증하게 합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/79cf383c-d3a9-4503-ac2d-ba663514c13a/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/105256335/235052510-ded6da88-0612-49ec-90ce-a34a5b66c065.png)
 
 먼저 테스트를 작성하고, 프로덕션 코드를 작성한 다음 또 다른 테스트를 작성합니다.
 
